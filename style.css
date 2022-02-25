@@ -53,3 +53,7 @@ body{
     right: 0;
     z-index: 1000;
 }
+.header .logo img{
+    height: 10rem;
+    width: 10rem;
+}
