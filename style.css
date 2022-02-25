@@ -81,5 +81,13 @@ body{
 #menu-btn{
     display: none;
 }
+.header .search-form{
+    position: absolute;
+    top: 115%; right: 7%;
+    background: #fff;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+}
 
 
